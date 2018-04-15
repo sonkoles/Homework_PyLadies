@@ -1,0 +1,6 @@
+for X_slopec in range (5):
+	for X_radek in range(5):
+		print(X_radek*X_slopec, end = ' ')
+	print ('', sep = " ", end = '\n')
+		
+		
